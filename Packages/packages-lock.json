@@ -79,13 +79,13 @@
       }
     },
     "com.zappar.uar": {
-      "version": "https://github.com/zappar-xr/universal-ar-unity.git",
+      "version": "https://github.com/zappar-xr/universal-ar-unity.git#beta",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.unity.editorcoroutines": "1.0.0"
       },
-      "hash": "84739170e2291b7d91b6e6b192a0eddd6cb2a146"
+      "hash": "9c1b6f852c2c7229f439b74d37ea7a58f142f891"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
